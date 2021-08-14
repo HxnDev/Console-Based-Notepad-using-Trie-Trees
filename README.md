@@ -11,4 +11,6 @@ All the files have been commented for your ease. Furthermore you may also add fu
 
 For better understanding of the scenerio, refer to "Requirements.md" and "TRIE Overview.pdf".
 
+This was a group project and equal contribution was provided by my fellow team member [Azka Khurram](https://github.com/AzkaKhurram)
+
 For further queries contact me at : chhxnshah@gmail.com
